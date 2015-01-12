@@ -1,0 +1,13 @@
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\bin\Debug\ListBoxAnimation.exe.config
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation.csprojResolveAssemblyReference.cache
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\MainWindow.baml
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\App.g.cs
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation_MarkupCompile.cache
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation.g.resources
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation.Properties.Resources.resources
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation.csproj.GenerateResource.Cache
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\bin\Debug\ListBoxAnimation.exe
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\bin\Debug\ListBoxAnimation.pdb
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation.exe
+C:\Users\aselab_admin\Developer\ListBoxAnimation\ListBoxAnimation\obj\Debug\ListBoxAnimation.pdb
